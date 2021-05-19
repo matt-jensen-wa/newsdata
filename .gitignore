@@ -1,3 +1,5 @@
+database/dumps/*
+app/.env
 /.vagrant
 /scrapy.iml
 *.pyc
